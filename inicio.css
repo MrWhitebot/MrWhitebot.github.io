@@ -1,0 +1,70 @@
+body{
+    margin:auto;
+    font-family: 'Montserrat', sans-serif;
+    background-image:url("images/cr.png");
+    min-height:100%;
+}
+
+header{
+    background-color:royalblue;
+    text-align:center;
+    padding:30px;
+    border-style:ridge;
+    border-color:gold;
+    border-radius: 20px;
+}
+
+.logo{
+    /*color de letra*/
+    color: gold;
+    /*tamaño de letra*/
+    font-size:90px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.car {
+    width:70%;
+    margin:40px  auto;
+    text-align:center;
+    
+}
+.cart{
+    border: groove 5px white;
+    border-color:rgba(255, 255, 255, 0.25);
+    background-color: rgba(255, 255, 255, 0.1);
+    display: inline-block;
+    width: 250px;
+    height: 350px;
+    margin: 3px;
+    transition: 0.5s;
+    color: black;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.cart .ss{
+    color:white;
+    font-size:40px;
+    margin-top:40px;
+    margin-bottom:-53px;
+}
+
+.cofre{
+    
+    width: 185px;
+    margin-top: 90px;
+}
+
+.cart:hover {
+  background-color:rgba(255, 255, 255, 0.25);
+}
+
+.footer{
+    background-color:black;
+    text-align:center;
+    color:white;
+    padding:30px 0;
+    width:100%;
+    position:fixed;
+    bottom:0;
+    
+}

@@ -1,0 +1,41 @@
+[
+    {
+        "Titulo": "GLOSARIO",
+        "priority": "false",
+        "url": "https://mrwhitebot.github.io/glosario/index.html",
+        "img":"images/cofreplata.png",
+        "Textoimagen":"Glosario",
+        "description": "Curriculum personal creado a partir de un diseño propio.",
+        "status": "yes"
+    },
+    {
+        "Titulo": "GRUPAL",
+        "priority": "false",
+        "url": "https://mrwhitebot.github.io/topgames/index.html",
+        "img":"images/cofremadera.png",
+        "Textoimagen":"Grupal",
+        "description": "Formulario en grupo de la fundacion Vida Sostenible.",
+        "status": "yes"
+    },
+    {
+        "Titulo": "CV",
+        "priority": "false",
+        "url": "https://mrwhitebot.github.io/cv/index.html",
+        "img":"images/cofre.png",
+        "Textoimagen":"cv",
+        "description": "Web grupal basada en una tienda de videojuegos. Diseño provisional.",
+        "status": "yes"
+       
+    },
+    {
+        "Titulo": "VER MÁS",
+        "priority": "false",
+        "url": "https://mrwhitebot.github.io/vermas/index.html",
+        "img":"images/supermagico.png",
+        "Textoimagen":"Ver más",
+        "description": "Trabajo básico de inicio de curso en el que se desarrolla un Glosario.",
+        "status": "yes"
+    }
+
+
+]
